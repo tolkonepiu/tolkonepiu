@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://popov.wtf/">
-   <img align="center" src="https://popov.wtf/assets/gh-avatar.svg" />
+   <img align="center" src="https://popov.wtf/assets/gh-avatar.svg?v=1" />
    </a>
 </p>
 
