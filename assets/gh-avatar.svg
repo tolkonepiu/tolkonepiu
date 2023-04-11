@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="300" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 400 400" width="100%" xml:space="preserve">
+  <defs>
+    <pattern id="bg" patternUnits="userSpaceOnUse" width="100%" height="100%">
+      <image xlink:href="/assets/background.png" width="100%" height="100%" />
+    </pattern>
+    <clipPath id="round-rect">
+      <rect x="0" y="0" width="100%" height="100%" rx="50%" ry="50%" />
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#bg)" rx="50%" ry="50%" clip-path="url(#round-rect)" />
+  <path d="M80 340L80 360L60 360L60 380L60 400L340 400L340 380L340 360L320 360L320 340L260 340L260 360L140 360L140 340L80 340Z" fill="#292114" fill-rule="nonzero" opacity="1" stroke="none" clip-path="url(#round-rect)" />
+<path d="M100 100L100 120L80 120L80 140L80 160L60 160L40 160L40 220L60 220L60 260L60 280L80 280L80 300L160 300L160 320L160 340L140 340L140 360L160 360L160 380L240 380L240 360L260 360L260 340L240 340L240 320L240 300L320 300L320 280L340 280L340 260L340 220L360 220L360 160L340 160L320 160L320 140L320 120L300 120L300 100L200 100L200 120L160 120L160 140L140 140L140 120L120 120L120 100L100 100Z" fill="#b9905a" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M100 240L100 260L120 260L120 240L100 240ZM120 260L120 280L280 280L280 260L120 260ZM280 260L300 260L300 240L280 240L280 260Z" fill="#2a2211" fill-rule="nonzero" opacity="1" stroke="none">
+  <animate attributeName="opacity" dur="20" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;" repeatCount="indefinite" /> 
+</path>
+<path d="M160 260L240 260L240 280L160 280L160 260Z" fill="#282212" fill-rule="nonzero" opacity="0" stroke="none">
+  <animate attributeName="opacity" dur="20" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;" repeatCount="indefinite" />
+</path>
+<path d="M100 260L140 260L140 280L100 280L100 260Z" fill="#282212" fill-rule="nonzero" opacity="0" stroke="none">
+  <animate attributeName="opacity" dur="20" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;" repeatCount="indefinite" /> 
+</path>
+<path d="M100 200L160 200L160 220L100 220L100 200Z" fill="#cac599" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M240 200L300 200L300 220L240 220L240 200Z" fill="#cac599" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M100 60L100 80L80 80L80 100L60 100L60 160L80 160L80 120L100 120L100 100L120 100L120 120L140 120L140 140L160 140L160 120L200 120L200 100L280 100L300 100L300 120L320 120L320 160L340 160L340 100L320 100L320 81.8438L300 81.8438L300 60L280 60L120 60L100 60Z" fill="#282212" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M240 180L240 200L260 200L280 200L300 200L300 180L280 180L260 180L240 180Z" fill="#fefefa" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M100 180L100 200L120 200L140 200L160 200L160 180L140 180L120 180L100 180Z" fill="#fefefa" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M80 160L180 160L180 180L80 180L80 160Z" fill="#282212" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M220 160L320 160L320 180L220 180L220 160Z" fill="#282212" fill-rule="nonzero" opacity="1" stroke="none" />
+<path d="M120 180L120 200L140 200L140 180L120 180ZM260 180L260 200L280 200L280 180L260 180Z" fill="#282212" fill-rule="nonzero" opacity="1" stroke="none">
+  <animate attributeName="opacity" dur="20" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;" repeatCount="indefinite" />
+</path>
+<path d="M100 180L100 200L120 200L120 180L100 180ZM240 180L240 200L260 200L260 180L240 180Z" fill="#282212" fill-rule="nonzero" opacity="0" stroke="none">
+  <animate attributeName="opacity" dur="20" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;" repeatCount="indefinite" />
+</path>
+<path d="M140 180L140 200L160 200L160 180L140 180ZM280 180L280 200L300 200L300 180L280 180Z" fill="#282212" fill-rule="nonzero" opacity="0" stroke="none">
+  <animate attributeName="opacity" dur="20" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;" repeatCount="indefinite" /> 
+</path>
+</svg>
