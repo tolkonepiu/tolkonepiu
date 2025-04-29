@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://popov.wtf/">
-    <img src="https://popov.wtf/assets/images/avatar.svg" width="300" />
+    <img src="https://popov.wtf/assets/images/avatar.svg" width="300" height="300" />
   </a>
 </p>
 
@@ -26,6 +26,6 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=tolkonepiu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://gh-stats.popov.wtf?user=tolkonepiu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
   />
 </p>
