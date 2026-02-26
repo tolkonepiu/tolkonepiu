@@ -1,0 +1,261 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/tolkonepiu/spksrc/commit/a477048fc818400073b749df18754fd3206b7642\"><strong>a</strong>477048fc818400073b749df18754fd3206b7642</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/tolkonepiu/ha-addons/commit/abb4d0d9c275706c7fc3e36b76622833ca3ddd53\"><strong>ab</strong>b4d0d9c275706c7fc3e36b76622833ca3ddd53</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-playbooks/commit/1a79e364dd0558644da2511102e701eb5720be0f\">1a79e36</a>\n- <a href=\"https://github.com/tolkonepiu/hl-playbooks/commit/6e87b960e7ce693ded3f1c2828ea39cd0efba1f8\">6e87b96</a>\n- <a href=\"https://github.com/tolkonepiu/hl-playbooks/commit/e2d4f37619335b66b95334b6ec51d33739d0261e\">e2d4f37</a>\n- <a href=\"https://github.com/tolkonepiu/hl-playbooks/commit/77abf00fd5eed09b58a5b4a3493344133b5af647\">77abf00</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/fae9d26d3a7fe91fd365582f53d762bef4ec32d7\">fae9d26</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/d2cb147467831c62608bd50bf285a9ffaf9fcd34\">d2cb147</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/36cdeb9e1a43f9e55cc48e5085a994d7376e4cf1\">36cdeb9</a>: chore: add missing 'official' labels and standardize label ordering",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/fec27334e1b2b9071227cae733ba83c2375a2652\">fec2733</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/9bf87bbabe32351bdcf35b78c16f376d10d2c9b1\">9bf87bb</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/32d885113ad3398fde01a10fa7f5d93a4db735e4\">32d8851</a>\n- <a href=\"https://github.com/tolkonepiu/prometheus-docker/commit/523a87c3c3eee9b0556e604e412e8a54655b2125\">523a87c</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-playbooks/commit/659a45fe1ef91d38fc68ea5fc515438984c94ea0\">659a45f</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/0d387596b8fecb159c537af28eb3530fbf692daf\">0d38759</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/3508beb93a24ee30b2363e3df8397f94cd489cb1\">3508beb</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/0548b40af571dbc6ec9ca17565e730040c941fac\">0548b40</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/e10009ce0007abd9124ed0b2a92063b7bed32e35\">e10009c</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/708e8ffb19674878f3d347b1db77fe3b909846f1\">708e8ff</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/495469a6fede0e873d567d4a53802e02254d6f0e\">495469a</a>\n- <a href=\"https://github.com/tolkonepiu/keencli/commit/d585be042e9c9be66eed25aa1a0575f1a0070c48\">d585be0</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 470 times)\n2. update (used 237 times)\n3. fix (used 179 times)\n4. github (used 131 times)\n5. actions (used 122 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/f911ab9df214fefb93fd9821be8c42c201b47883\">f911ab9</a>: fix(atuin): add emptyDir volume for /config to fix permission denied\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/57439d6d6935889a5706c13a7d06c114ade165a5\">57439d6</a>: fix: add atuin to kustomization resources",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c520d6228d2af7fa1b7de93eea0c96f4c0a867e6\">c520d62</a>: fix: Update Prometheus alert manager config to remove `heartbeat` receiver\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c347508415646bb58a1dcd54a05f4f3fd2d7bb9b\">c347508</a>: fix: Fix spec for alert manager\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/697edb8a9738cffe84190e1a33c9827b40a019ea\">697edb8</a>: fix: fix secret values for alert manager",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/1a095b13f84340ce90c8d6595147760d1de5dc9b\">1a095b1</a>: fix(tailscale): add SOPS decryption and cluster-secrets substitution\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/cc780e7c8f6f53e5efa4476cc44834829346bc48\">cc780e7</a>: fix(taiscale): fix double quote in secret\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/906bf4307ff5a427c236fc10e6a86a0505febc7a\">906bf43</a>: fix(tailscale): fix secret name\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8dc47c2efb3e08f224553e4b86fdce435883d4ab\">8dc47c2</a>: fix(tailscale): add to network kustomization",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c15b6bd80b0002ef5190412c2252c2bfaa960427\">c15b6bd</a>: fix(grafana): add folder for flux dashboards\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/4765cdcd0eef6606f22adb38448a24b7938a2487\">4765cdc</a>: fix(gragana): remove flux logs dashboard\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/237d2e7a8493f01fd7ac3361ef0edb2055eb43f2\">237d2e7</a>: fix(grafana): fix flux dashboards\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6e0731511beae5ac480a3bea73835cba39ee0a85\">6e07315</a>: fix(grafana): fix external dns dashboard\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/353ab53b033073e1a1c9250d443f19daaaf43f76\">353ab53</a>: fix(grafana): fix wg-easy dashboard",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 11 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2d6afca476bcfab83a3059db07fb599e7cb1c997\">2d6afca</a>: fix(umami): fix gateway namespace\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8b9cdc68fe50897855e0df92abf019f9697fcb3d\">8b9cdc6</a>: fix(umami): fix user and group id\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/19c9a000d665bc1d937a090dada4b8d296ac82c8\">19c9a00</a>: fix(umami): disable read only file system\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/65ae79ffeba5b64de9608936559f814bb17aff97\">65ae79f</a>: fix(umami): peristence path for pnpm\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/ede2a34103fd711b8c6e4617d17e801ee15afd0c\">ede2a34</a>: fix(umami): add persistence for node_modules\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6d158a8e4fbef927ccd8b830ce5b40882fbc180c\">6d158a8</a>: fix(umami): fix superuser pg pass\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8165b5574d13b5f010f3f4f48d197eeb475f78a3\">8165b55</a>: fix(umami): fix postgres credentials\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b1eeeeaba421a0dbabc211ee97efcb00bb364984\">b1eeeea</a>: fix(umami): fix postgres env values\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/caf12009d55f660717834ad9fc4dce7579ee4055\">caf1200</a>: fix(umami): fix secret reference\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/987aff601d611d1f32bd73af9720e1f91e3ddd3d\">987aff6</a>: fix(umami): fix env spec\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/55e519065f0cfd56d7a9c85afd6c92e6cc384d8b\">55e5190</a>: fix(umami): add secrets to kustomization",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/f4bb4bba49e519e739b28a766c8415b84f8e382b\">f4bb4bb</a>\n- <a href=\"https://github.com/tolkonepiu/ru-ipranges/commit/ea9bde9581ca72f82124f8cbebf434f9902454e2\">ea9bde9</a>\n- <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes/commit/06437a5fdad75aaedbc0ab3d2bd24b2050f334a0\">06437a5</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/b3b2b141dfc03e3eb5b195ed5821afc1c1ac0f17\">b3b2b14</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-playbooks/commit/0826fa7be504078b86f2daecbb8c1691fbbb8465\">0826fa7</a>\n- <a href=\"https://github.com/tolkonepiu/unsplash-bridge/commit/c419d7e74c8f30b62980b4b6660b6d08817d3adc\">c419d7e</a>\n- <a href=\"https://github.com/tolkonepiu/unsplash-bridge/commit/6aa7454b627b774e9771e8a23968a4be0c990f17\">6aa7454</a>\n- <a href=\"https://github.com/tolkonepiu/unsplash-bridge/commit/e0f55ff1b41fddedef94e18281086c66fc4fea6a\">e0f55ff</a>\n- <a href=\"https://github.com/tolkonepiu/unsplash-bridge/commit/7b8eefd33c453fa4fe39b793479341d759fa8ce2\">7b8eefd</a>\n- <a href=\"https://github.com/tolkonepiu/unsplash-bridge/commit/c6fb0a692c6bd96619f277fbcc3853c929760d4b\">c6fb0a6</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/rbkmoney/damsel/issues/30\">#30</a>: Guidelines по Damsel",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/helm-charts/commit/0658342991d52a2614081b64b9faf62af329fad6\">0658342</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/siderolabs/sbc-rockchip/issues/65\">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash\n- <a href=\"https://github.com/tw93/Mole/issues/448\">#448</a>: [FEATURE] add Mole to nixpkgs",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/rbkmoney/magista/pull/42\">#42</a>: MST-46: Accounting report with opening and closing balance",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/apache/thrift/pull/2495\">#2495</a>: Ft/add GitHub actions build for m1",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/openwrt/openwrt/pull/65\">#65</a>: Add support for ZyXEL Keenetic series",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "pr-collaboration-20",
+    "tier": 4,
+    "desc": "I have participated in pull requests with 20 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/openwrt/openwrt/pull/65\">#65</a>: Add support for ZyXEL Keenetic series",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-20.png"
+  },
+  {
+    "id": "pr-collaboration-25",
+    "tier": 5,
+    "desc": "I have participated in pull requests with 25 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/openwrt/openwrt/pull/65\">#65</a>: Add support for ZyXEL Keenetic series",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/ce786e029ef54f8e73c31d7b5d8fc506582c0a00\">ce786e0</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/109957383b19aae9e7593479515b4fdddf260389\">1099573</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c48e4d22de27a29551361930ba60f6c77ba407b3\">c48e4d2</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6445a1fd8d1a8f8a607e9275c855a2c6ebfb1605\">6445a1f</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/rbkmoney/payouter/pull/69\">🎉</a>\n* <a href=\"https://github.com/rbkmoney/payouter/pull/69\">❤️</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">👍</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">👎</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">😄</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">🎉</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">😕</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">❤️</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">🚀</a>\n* <a href=\"https://github.com/tolkonepiu/mindsafe-comments/discussions/2#discussioncomment-11424336\">👀</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/tolkonepiu/commit/410e8bea0fed015ec5704100e9e2bda17614d957\">410e8be</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/keencli/commit/76b48f578670af4bd29ca3a7a43a539f1c55b1f9\">76b48f5</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-nix\">tolkonepiu/best-of-nix: ★39</a>\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★33</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★24</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/rbkmoney/reporter/issues/42\">#42</a>\n- <a href=\"https://github.com/rbkmoney/helmsdeep/issues/42\">#42</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/issues/42\">#42</a>\n- <a href=\"https://github.com/rbkmoney/walker/issues/42\">#42</a>\n- <a href=\"https://github.com/rbkmoney/event_stock_client_lib/issues/42\">#42</a>\n- <a href=\"https://github.com/rbkmoney/magista/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/1cf11f0c97b48dbcd32bbf17bd3696b11bf3c7c5\">1cf11f0</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/40e938a722b6cbc905ad39cb8b547d29c71b2567\">40e938a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/40998a7d477fe978a3f39579e454f4cfbe87ec57\">40998a7</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a1719424d11c980af007545e45eb959e3bf2111e\">a171942</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/f1a045c3e06cb50555e49efcbda6d90838d7f696\">f1a045c</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/244f0affeb94207606ad9ef0d70ac3af2c713a26\">244f0af</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ipranges/commit/be2d7a29d7e9356948e24261cd4488897538a2b1\">be2d7a2</a>\n- <a href=\"https://github.com/tolkonepiu/ipranges/commit/9f52992ecae3a9f7ec6fcf6150fbac7cc8376a3a\">9f52992</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/7478a852a23f0d8b960acf663dae808a6e642d50\">7478a85</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8860a3e8785f9f48d894caeecbf2a072aedfc0d5\">8860a3e</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b264d9d7e32e11ad050f9edcea6f6e917fce4bdb\">b264d9d</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/a50510d19897f35289a9b6815f1941614a360bc7\">a50510d</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/bd30299f63bde0b715cb2e1bd3f8b46cba9323e1\">bd30299</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/184417ae548686019e9cf18f622769284a000317\">184417a</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/13ec33a7859439a4d70ff911181eed2b1dcfe0f8\">13ec33a</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a1eb9df8e3967823d3a01bb772c84ed10e221e5a\">a1eb9df</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/a653bbe85d77e7bd621d995b2fef7cb7ab854deb\">a653bbe</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/c6d86e638390e232f9cfdfa5c59dd195311317c4\">c6d86e6</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/openwrt/commit/ff77c9517019ac6130c24cb71437a8ec88f36ed3\">ff77c95</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
