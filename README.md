@@ -30,6 +30,7 @@
 <p align="center">
   <img
     src="https://gh-stats.popov.wtf?user=tolkonepiu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="195"
   />
 </p>
 
