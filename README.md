@@ -7,7 +7,10 @@
 <h1 align="center">Pavel Popov</h1>
 
 <p align="center">
-  Chief troubleshooting officer, software ninjaneer and digital migrant 🥷
+  Chief troubleshooting officer, software ninjaneer and digital migrant 🥷<br />
+  Check out my <a href="https://github.com/tolkonepiu/zdotdir">zdotdir</a>,
+  <a href="https://github.com/tolkonepiu/dotfiles.nix">dotfiles</a> and
+  <a href="https://github.com/tolkonepiu/hl-cluster">cluster</a>.
 </p>
 
 <p align="center">
@@ -29,3 +32,6 @@
     src="https://gh-stats.popov.wtf?user=tolkonepiu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
   />
 </p>
+
+<!-- my-badges start -->
+<!-- my-badges end -->
