@@ -1,3 +1,9 @@
+<p align="right">
+  <sub>Check out my <a href="https://github.com/tolkonepiu/zdotdir">zdotdir</a>,
+  <a href="https://github.com/tolkonepiu/dotfiles.nix">dotfiles</a> and
+  <a href="https://github.com/tolkonepiu/hl-cluster">cluster</a></sub>
+</p>
+
 <p align="center">
   <a href="https://popov.wtf/">
     <img src="https://popov.wtf/assets/images/avatar.svg" width="300" height="300" />
@@ -7,10 +13,7 @@
 <h1 align="center">Pavel Popov</h1>
 
 <p align="center">
-  Chief troubleshooting officer, software ninjaneer and digital migrant 🥷<br />
-  Check out my <a href="https://github.com/tolkonepiu/zdotdir">zdotdir</a>,
-  <a href="https://github.com/tolkonepiu/dotfiles.nix">dotfiles</a> and
-  <a href="https://github.com/tolkonepiu/hl-cluster">cluster</a>.
+  Chief troubleshooting officer, software ninjaneer and digital migrant 🥷
 </p>
 
 <p align="center">
@@ -33,6 +36,8 @@
     height="195"
   />
 </p>
+
+---
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
