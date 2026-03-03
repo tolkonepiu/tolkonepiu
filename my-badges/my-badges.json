@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 471 times)\n2. update (used 237 times)\n3. fix (used 179 times)\n4. github (used 131 times)\n5. actions (used 122 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 471 times)\n2. update (used 238 times)\n3. fix (used 179 times)\n4. github (used 131 times)\n5. actions (used 122 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -220,7 +220,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-nix\">tolkonepiu/best-of-nix: ★41</a>\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★38</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★24</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-nix\">tolkonepiu/best-of-nix: ★42</a>\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★39</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★24</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/1cf11f0c97b48dbcd32bbf17bd3696b11bf3c7c5\">1cf11f0</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/40e938a722b6cbc905ad39cb8b547d29c71b2567\">40e938a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/40998a7d477fe978a3f39579e454f4cfbe87ec57\">40998a7</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a1719424d11c980af007545e45eb959e3bf2111e\">a171942</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/f1a045c3e06cb50555e49efcbda6d90838d7f696\">f1a045c</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/244f0affeb94207606ad9ef0d70ac3af2c713a26\">244f0af</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/d3588fb74823a21f90b58c1cce4dc8713ba04635\">d3588fb</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/1cf11f0c97b48dbcd32bbf17bd3696b11bf3c7c5\">1cf11f0</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/40e938a722b6cbc905ad39cb8b547d29c71b2567\">40e938a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/40998a7d477fe978a3f39579e454f4cfbe87ec57\">40998a7</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a1719424d11c980af007545e45eb959e3bf2111e\">a171942</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/f1a045c3e06cb50555e49efcbda6d90838d7f696\">f1a045c</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
