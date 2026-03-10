@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/tolkonepiu/best-of-nix">tolkonepiu/best-of-nix: ★46</a>
+* <a href="https://github.com/tolkonepiu/best-of-nix">tolkonepiu/best-of-nix: ★47</a>
 * <a href="https://github.com/tolkonepiu/best-of-mcp-servers">tolkonepiu/best-of-mcp-servers: ★41</a>
 * <a href="https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes">tolkonepiu/catppuccin-powerlevel10k-themes: ★26</a>
 * <a href="https://github.com/tolkonepiu/wg-easy-extended">tolkonepiu/wg-easy-extended: ★9</a>
