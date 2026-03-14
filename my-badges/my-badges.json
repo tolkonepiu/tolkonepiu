@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 478 times)\n2. update (used 245 times)\n3. fix (used 179 times)\n4. github (used 131 times)\n5. actions (used 122 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 482 times)\n2. update (used 245 times)\n3. fix (used 179 times)\n4. github (used 131 times)\n5. actions (used 122 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/f4bb4bba49e519e739b28a766c8415b84f8e382b\">f4bb4bb</a>\n- <a href=\"https://github.com/tolkonepiu/ru-ipranges/commit/ea9bde9581ca72f82124f8cbebf434f9902454e2\">ea9bde9</a>\n- <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes/commit/06437a5fdad75aaedbc0ab3d2bd24b2050f334a0\">06437a5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/1de1c1b6f0deec1a00758c80abc67ea7d3a77959\">1de1c1b</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/4f1861dc9113633a158ae7fbe2c59998b54281ec\">4f1861d</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/1b2e7c3e83a8e98097af3694bebb21e650139856\">1b2e7c3</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80e5b878257353c87d9355210aaff6279f7b2014\">80e5b87</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/f4bb4bba49e519e739b28a766c8415b84f8e382b\">f4bb4bb</a>\n- <a href=\"https://github.com/tolkonepiu/ru-ipranges/commit/ea9bde9581ca72f82124f8cbebf434f9902454e2\">ea9bde9</a>\n- <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes/commit/06437a5fdad75aaedbc0ab3d2bd24b2050f334a0\">06437a5</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/3d62e1b07fe180816d5a98580d9801fe6baad1a3\">3d62e1b</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/32d07e480c78cdb79dda587ec0f0908a8434e82f\">32d07e4</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/36ceb668284fec25f5f79a3dc1c02e662e5b9434\">36ceb66</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/d3588fb74823a21f90b58c1cce4dc8713ba04635\">d3588fb</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/1cf11f0c97b48dbcd32bbf17bd3696b11bf3c7c5\">1cf11f0</a>\n- <a href=\"https://github.com/tolkonepiu/zdotdir/commit/40e938a722b6cbc905ad39cb8b547d29c71b2567\">40e938a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80e5b878257353c87d9355210aaff6279f7b2014\">80e5b87</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/3d62e1b07fe180816d5a98580d9801fe6baad1a3\">3d62e1b</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/32d07e480c78cdb79dda587ec0f0908a8434e82f\">32d07e4</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/36ceb668284fec25f5f79a3dc1c02e662e5b9434\">36ceb66</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/d3588fb74823a21f90b58c1cce4dc8713ba04635\">d3588fb</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/1cf11f0c97b48dbcd32bbf17bd3696b11bf3c7c5\">1cf11f0</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
