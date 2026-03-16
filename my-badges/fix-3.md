@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c520d6228d2af7fa1b7de93eea0c96f4c0a867e6">c520d62</a>: fix: Update Prometheus alert manager config to remove `heartbeat` receiver
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c347508415646bb58a1dcd54a05f4f3fd2d7bb9b">c347508</a>: fix: Fix spec for alert manager
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/697edb8a9738cffe84190e1a33c9827b40a019ea">697edb8</a>: fix: fix secret values for alert manager
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9f5e476575da6c8472df0c4d7c90317469b887ab">9f5e476</a>: fix(automation): disable unsupported victoriametrics MCP tools and increase probe retries
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/02d1c93b5bf2eb76d2e08b98196855922d9f7797">02d1c93</a>: fix(automation): disable victoriametrics MCP documentation resources
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/45bb9efbcdce01d1695c506a720de285f8b876f0">45bb9ef</a>: fix(automation): switch victoriametrics MCP server to sse mode
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

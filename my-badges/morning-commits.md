@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/tolkonepiu/best-of-nix/commit/2cf6cca946dd06661bc0e9160d001caade390cbf">2cf6cca</a>
+- <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/ac42852b14e5f6a8a0cb71516295459a9519be89">ac42852</a>
+- <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/faf3dfafd1a74a49afdd431a59dfa40833ff25bd">faf3dfa</a>
 - <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/80c358a39a3010ba6ec280906a35a8f368cff2c6">80c358a</a>
 - <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/305bfdd0c62ded84c0e0fbc0babee1d4af139ab0">305bfdd</a>
 - <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/eb1cf49c35861fc908e2b6fdb10e1a18372663dd">eb1cf49</a>
-- <a href="https://github.com/tolkonepiu/best-of-nix/commit/35cd7012fc56ae0c57719aefa927fab8f7de8d82">35cd701</a>
-- <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/7f89175a7aa8a9af7f21450a741975ee50e9d6bf">7f89175</a>
-- <a href="https://github.com/tolkonepiu/ipranges/commit/be2d7a29d7e9356948e24261cd4488897538a2b1">be2d7a2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

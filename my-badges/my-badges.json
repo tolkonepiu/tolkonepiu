@@ -52,21 +52,21 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 482 times)\n2. update (used 245 times)\n3. fix (used 179 times)\n4. github (used 131 times)\n5. actions (used 122 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 486 times)\n2. update (used 247 times)\n3. fix (used 179 times)\n4. github (used 133 times)\n5. actions (used 123 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/f911ab9df214fefb93fd9821be8c42c201b47883\">f911ab9</a>: fix(atuin): add emptyDir volume for /config to fix permission denied\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/57439d6d6935889a5706c13a7d06c114ade165a5\">57439d6</a>: fix: add atuin to kustomization resources",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6b34cb3b831f10a84623863394156bf1c456f238\">6b34cb3</a>: fix(automation): increase victoria-metrics-mcp-server memory limits\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/7f33c4ebf09f8bd0c83c20c48949001e57804beb\">7f33c4e</a>: fix(automation): re-enable victoria-metrics-mcp with production settings",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c520d6228d2af7fa1b7de93eea0c96f4c0a867e6\">c520d62</a>: fix: Update Prometheus alert manager config to remove `heartbeat` receiver\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c347508415646bb58a1dcd54a05f4f3fd2d7bb9b\">c347508</a>: fix: Fix spec for alert manager\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/697edb8a9738cffe84190e1a33c9827b40a019ea\">697edb8</a>: fix: fix secret values for alert manager",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9f5e476575da6c8472df0c4d7c90317469b887ab\">9f5e476</a>: fix(automation): disable unsupported victoriametrics MCP tools and increase probe retries\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/02d1c93b5bf2eb76d2e08b98196855922d9f7797\">02d1c93</a>: fix(automation): disable victoriametrics MCP documentation resources\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/45bb9efbcdce01d1695c506a720de285f8b876f0\">45bb9ef</a>: fix(automation): switch victoriametrics MCP server to sse mode",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80c358a39a3010ba6ec280906a35a8f368cff2c6\">80c358a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/305bfdd0c62ded84c0e0fbc0babee1d4af139ab0\">305bfdd</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/eb1cf49c35861fc908e2b6fdb10e1a18372663dd\">eb1cf49</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/35cd7012fc56ae0c57719aefa927fab8f7de8d82\">35cd701</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/7f89175a7aa8a9af7f21450a741975ee50e9d6bf\">7f89175</a>\n- <a href=\"https://github.com/tolkonepiu/ipranges/commit/be2d7a29d7e9356948e24261cd4488897538a2b1\">be2d7a2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/2cf6cca946dd06661bc0e9160d001caade390cbf\">2cf6cca</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/ac42852b14e5f6a8a0cb71516295459a9519be89\">ac42852</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/faf3dfafd1a74a49afdd431a59dfa40833ff25bd\">faf3dfa</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80c358a39a3010ba6ec280906a35a8f368cff2c6\">80c358a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/305bfdd0c62ded84c0e0fbc0babee1d4af139ab0\">305bfdd</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/eb1cf49c35861fc908e2b6fdb10e1a18372663dd\">eb1cf49</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/f911ab9df214fefb93fd9821be8c42c201b47883">f911ab9</a>: fix(atuin): add emptyDir volume for /config to fix permission denied
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/57439d6d6935889a5706c13a7d06c114ade165a5">57439d6</a>: fix: add atuin to kustomization resources
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/6b34cb3b831f10a84623863394156bf1c456f238">6b34cb3</a>: fix(automation): increase victoria-metrics-mcp-server memory limits
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/7f33c4ebf09f8bd0c83c20c48949001e57804beb">7f33c4e</a>: fix(automation): re-enable victoria-metrics-mcp with production settings
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
