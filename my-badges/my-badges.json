@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 486 times)\n2. update (used 247 times)\n3. fix (used 179 times)\n4. github (used 133 times)\n5. actions (used 123 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 490 times)\n2. update (used 248 times)\n3. fix (used 179 times)\n4. github (used 133 times)\n5. actions (used 123 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c15b6bd80b0002ef5190412c2252c2bfaa960427\">c15b6bd</a>: fix(grafana): add folder for flux dashboards\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/4765cdcd0eef6606f22adb38448a24b7938a2487\">4765cdc</a>: fix(gragana): remove flux logs dashboard\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/237d2e7a8493f01fd7ac3361ef0edb2055eb43f2\">237d2e7</a>: fix(grafana): fix flux dashboards\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6e0731511beae5ac480a3bea73835cba39ee0a85\">6e07315</a>: fix(grafana): fix external dns dashboard\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/353ab53b033073e1a1c9250d443f19daaaf43f76\">353ab53</a>: fix(grafana): fix wg-easy dashboard",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9239aa42530a4bf825015ef31c57089f8b4ec221\">9239aa4</a>: fix(1mcp-agent): enable async loading\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a0bd6b146072052e5c307e6dfdb1763c712bf2d2\">a0bd6b1</a>: fix(1mcp-agent): set https external url\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/48a9d28794ca81539c5f1f6a2598813bbe545a76\">48a9d28</a>: fix(automation): switch one-mcp-agent transport to http\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/925f3f32fa215df395da873d9501b463391d30e4\">925f3f3</a>: fix(automation): add writable runtime config for one-mcp-agent\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/08b955bfb33b73060ca75e4ec73abd426e5f605b\">08b955b</a>: fix(automation): rename 1mcp-agent resources to one-mcp-agent",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
@@ -220,7 +220,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-nix\">tolkonepiu/best-of-nix: ★49</a>\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★43</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★27</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★45</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★27</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/2cf6cca946dd06661bc0e9160d001caade390cbf\">2cf6cca</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/ac42852b14e5f6a8a0cb71516295459a9519be89\">ac42852</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/faf3dfafd1a74a49afdd431a59dfa40833ff25bd\">faf3dfa</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80c358a39a3010ba6ec280906a35a8f368cff2c6\">80c358a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/305bfdd0c62ded84c0e0fbc0babee1d4af139ab0\">305bfdd</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/eb1cf49c35861fc908e2b6fdb10e1a18372663dd\">eb1cf49</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/02ef2c55b2a566ac7280fd36904164e28a5f0cdf\">02ef2c5</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/2cf6cca946dd06661bc0e9160d001caade390cbf\">2cf6cca</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/ac42852b14e5f6a8a0cb71516295459a9519be89\">ac42852</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/faf3dfafd1a74a49afdd431a59dfa40833ff25bd\">faf3dfa</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80c358a39a3010ba6ec280906a35a8f368cff2c6\">80c358a</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/305bfdd0c62ded84c0e0fbc0babee1d4af139ab0\">305bfdd</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
