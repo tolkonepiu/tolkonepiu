@@ -4,9 +4,9 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/NixOS/nixpkgs/issues/501200">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0
 - <a href="https://github.com/siderolabs/sbc-rockchip/issues/65">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash
 - <a href="https://github.com/tw93/Mole/issues/448">#448</a>: [FEATURE] add Mole to nixpkgs
+- <a href="https://github.com/NixOS/nixpkgs/issues/501200">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
