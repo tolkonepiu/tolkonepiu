@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/1a095b13f84340ce90c8d6595147760d1de5dc9b">1a095b1</a>: fix(tailscale): add SOPS decryption and cluster-secrets substitution
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/cc780e7c8f6f53e5efa4476cc44834829346bc48">cc780e7</a>: fix(taiscale): fix double quote in secret
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/906bf4307ff5a427c236fc10e6a86a0505febc7a">906bf43</a>: fix(tailscale): fix secret name
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/8dc47c2efb3e08f224553e4b86fdce435883d4ab">8dc47c2</a>: fix(tailscale): add to network kustomization
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/fc853a581bac034db2706d269deee3a24fc9f35b">fc853a5</a>: fix(goclaw): run both extension inits in a single shell command
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/39b6a130e88b0790e32df4b03a54d309e56b9707">39b6a13</a>: fix(goclaw): revert extension initialization
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/1bb1187ef5ac32e5fd9bd71e7c7e8d5e00b965aa">1bb1187</a>: fix(goclaw): run database migrations before app startup
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/6ccb855dc8760f117950c943f119a87eac71facb">6ccb855</a>: fix(goclaw): initialize required postgres extensions before startup
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

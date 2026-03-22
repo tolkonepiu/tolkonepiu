@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9f5e476575da6c8472df0c4d7c90317469b887ab">9f5e476</a>: fix(automation): disable unsupported victoriametrics MCP tools and increase probe retries
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/02d1c93b5bf2eb76d2e08b98196855922d9f7797">02d1c93</a>: fix(automation): disable victoriametrics MCP documentation resources
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/45bb9efbcdce01d1695c506a720de285f8b876f0">45bb9ef</a>: fix(automation): switch victoriametrics MCP server to sse mode
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/140dab6776e05ffd78360eac6a9e3c544a04f36f">140dab6</a>: fix(goclaw): fix skills directory path
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/eaf601ddbe6e2942ff957ddd53f148c25afaeb62">eaf601d</a>: fix(goclaw): Add GITHUB_TOKEN
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/cfc931684af6d593417843c13a1886ec08ddc15e">cfc9316</a>: fix(goclaw): switch path for custom skills
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -52,28 +52,28 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 498 times)\n2. update (used 249 times)\n3. fix (used 181 times)\n4. github (used 134 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 507 times)\n2. update (used 249 times)\n3. fix (used 183 times)\n4. github (used 134 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/409d3b81a5df6b9fb85e6e4068b6ce3f8fee42f8\">409d3b8</a>: fix(umami): schedule umami pods only on worker nodes\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/e5b694bd1013a1a299e5472dc04f732fee1a1048\">e5b694b</a>: fix(database): schedule tolstoy postgres pods on worker nodes",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a38d707d81ae212c350680b481beef9101aaf9d5\">a38d707</a>: fix(goclaw): shared skills volume\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/04104a9390deaa8e7cba6f9b35f9d27db0d62460\">04104a9</a>: fix(goclaw): use node image with git for skills init container",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9f5e476575da6c8472df0c4d7c90317469b887ab\">9f5e476</a>: fix(automation): disable unsupported victoriametrics MCP tools and increase probe retries\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/02d1c93b5bf2eb76d2e08b98196855922d9f7797\">02d1c93</a>: fix(automation): disable victoriametrics MCP documentation resources\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/45bb9efbcdce01d1695c506a720de285f8b876f0\">45bb9ef</a>: fix(automation): switch victoriametrics MCP server to sse mode",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/140dab6776e05ffd78360eac6a9e3c544a04f36f\">140dab6</a>: fix(goclaw): fix skills directory path\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/eaf601ddbe6e2942ff957ddd53f148c25afaeb62\">eaf601d</a>: fix(goclaw): Add GITHUB_TOKEN\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/cfc931684af6d593417843c13a1886ec08ddc15e\">cfc9316</a>: fix(goclaw): switch path for custom skills",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/1a095b13f84340ce90c8d6595147760d1de5dc9b\">1a095b1</a>: fix(tailscale): add SOPS decryption and cluster-secrets substitution\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/cc780e7c8f6f53e5efa4476cc44834829346bc48\">cc780e7</a>: fix(taiscale): fix double quote in secret\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/906bf4307ff5a427c236fc10e6a86a0505febc7a\">906bf43</a>: fix(tailscale): fix secret name\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8dc47c2efb3e08f224553e4b86fdce435883d4ab\">8dc47c2</a>: fix(tailscale): add to network kustomization",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fc853a581bac034db2706d269deee3a24fc9f35b\">fc853a5</a>: fix(goclaw): run both extension inits in a single shell command\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/39b6a130e88b0790e32df4b03a54d309e56b9707\">39b6a13</a>: fix(goclaw): revert extension initialization\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/1bb1187ef5ac32e5fd9bd71e7c7e8d5e00b965aa\">1bb1187</a>: fix(goclaw): run database migrations before app startup\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6ccb855dc8760f117950c943f119a87eac71facb\">6ccb855</a>: fix(goclaw): initialize required postgres extensions before startup",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -86,8 +86,8 @@
   {
     "id": "fix-6+",
     "tier": 6,
-    "desc": "I did 11 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2d6afca476bcfab83a3059db07fb599e7cb1c997\">2d6afca</a>: fix(umami): fix gateway namespace\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8b9cdc68fe50897855e0df92abf019f9697fcb3d\">8b9cdc6</a>: fix(umami): fix user and group id\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/19c9a000d665bc1d937a090dada4b8d296ac82c8\">19c9a00</a>: fix(umami): disable read only file system\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/65ae79ffeba5b64de9608936559f814bb17aff97\">65ae79f</a>: fix(umami): peristence path for pnpm\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/ede2a34103fd711b8c6e4617d17e801ee15afd0c\">ede2a34</a>: fix(umami): add persistence for node_modules\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6d158a8e4fbef927ccd8b830ce5b40882fbc180c\">6d158a8</a>: fix(umami): fix superuser pg pass\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8165b5574d13b5f010f3f4f48d197eeb475f78a3\">8165b55</a>: fix(umami): fix postgres credentials\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b1eeeeaba421a0dbabc211ee97efcb00bb364984\">b1eeeea</a>: fix(umami): fix postgres env values\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/caf12009d55f660717834ad9fc4dce7579ee4055\">caf1200</a>: fix(umami): fix secret reference\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/987aff601d611d1f32bd73af9720e1f91e3ddd3d\">987aff6</a>: fix(umami): fix env spec\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/55e519065f0cfd56d7a9c85afd6c92e6cc384d8b\">55e5190</a>: fix(umami): add secrets to kustomization",
+    "desc": "I did 7 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/cfbce69dde39d3890b7dcbb1d93f2393ee80a570\">cfbce69</a>: fix(goclaw): restore health-backed readiness for goclaw-web\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/96ec37bd095be1b973a52ae3f613c65e096fd2e9\">96ec37b</a>: fix(goclaw): point goclaw-web nginx override at goclaw-app service\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/53a53fe17c763b8da2e7e7c7fbc1afefc8ccf593\">53a53fe</a>: fix(goclaw): override goclaw-web nginx config for Kubernetes DNS\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/64628e2c96630aa2e9c2d22b2a75dd288fc4e901\">64628e2</a>: fix(goclaw): relax goclaw-web probes to frontend root path\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c19fc411cbf852f1ad51d0d5ad03bab76fc6d68c\">c19fc41</a>: fix(goclaw): allow nginx worker uid/gid switch in goclaw-web\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/3f114a9940c0112cf643ea020ef3439790392f33\">3f114a9</a>: fix(goclaw): add CHOWN capability for nginx\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/f2b7accf08416ac19a85ffaa2c6f1ee8064f1285\">f2b7acc</a>: fix(goclaw): add explicit service controller mappings for web split",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/siderolabs/sbc-rockchip/issues/65\">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash\n- <a href=\"https://github.com/tw93/Mole/issues/448\">#448</a>: [FEATURE] add Mole to nixpkgs\n- <a href=\"https://github.com/NixOS/nixpkgs/issues/501200\">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nextlevelbuilder/goclaw/issues/337\">#337</a>: Clarify GitOps / single-tenant operator workflow without per-user dashboard setup\n- <a href=\"https://github.com/siderolabs/sbc-rockchip/issues/65\">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash\n- <a href=\"https://github.com/tw93/Mole/issues/448\">#448</a>: [FEATURE] add Mole to nixpkgs\n- <a href=\"https://github.com/NixOS/nixpkgs/issues/501200\">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/03b5be87aa3775b1aae176bca1f366c0fcfa8306\">03b5be8</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/a3c12df3cabb7ed85f1e2be04dcba54cbced5083\">a3c12df</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a6ad89a7172e52ad21509ad0e25acd72649250d7\">a6ad89a</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/d9d42bdc2a76396e5eea9c4e567fd65da8beedac\">d9d42bd</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/2f28f2c43bd8d79b5f2468a41f8bc3e1313c7141\">2f28f2c</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/80e5b878257353c87d9355210aaff6279f7b2014\">80e5b87</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/64628e2c96630aa2e9c2d22b2a75dd288fc4e901\">64628e2</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c19fc411cbf852f1ad51d0d5ad03bab76fc6d68c\">c19fc41</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/3f114a9940c0112cf643ea020ef3439790392f33\">3f114a9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/f2b7accf08416ac19a85ffaa2c6f1ee8064f1285\">f2b7acc</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b7a94e83086d575d3703ba8a8fc863e91fc5a67e\">b7a94e8</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/866d7aaf02944db02782ab214e9c6bbd4a4cf307\">866d7aa</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fbdd10b8fd390abf119aa9ddb57141655d9b7258\">fbdd10b</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/7f9dba7100bf2a382f2d3b15b539bed5f470dd2b\">7f9dba7</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c5421d7718fdfdd258fb7248d51987343cc14311\">c5421d7</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/aa837ed146ff2340005ba64d679cdc86de2d32ef\">aa837ed</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2b744f6f148311fa42f4721da49390cf0864a197\">2b744f6</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/02ef2c55b2a566ac7280fd36904164e28a5f0cdf\">02ef2c5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6ccb855dc8760f117950c943f119a87eac71facb\">6ccb855</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/1932fffe915df11ed7bc84856bfc48fdeda16bc5\">1932fff</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/cfbce69dde39d3890b7dcbb1d93f2393ee80a570\">cfbce69</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/96ec37bd095be1b973a52ae3f613c65e096fd2e9\">96ec37b</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/53a53fe17c763b8da2e7e7c7fbc1afefc8ccf593\">53a53fe</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fbdd10b8fd390abf119aa9ddb57141655d9b7258\">fbdd10b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

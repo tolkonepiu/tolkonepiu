@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/03b5be87aa3775b1aae176bca1f366c0fcfa8306">03b5be8</a>
-- <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/a3c12df3cabb7ed85f1e2be04dcba54cbced5083">a3c12df</a>
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a6ad89a7172e52ad21509ad0e25acd72649250d7">a6ad89a</a>
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/d9d42bdc2a76396e5eea9c4e567fd65da8beedac">d9d42bd</a>
-- <a href="https://github.com/tolkonepiu/best-of-mcp-servers/commit/2f28f2c43bd8d79b5f2468a41f8bc3e1313c7141">2f28f2c</a>
-- <a href="https://github.com/tolkonepiu/dotfiles.nix/commit/80e5b878257353c87d9355210aaff6279f7b2014">80e5b87</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/64628e2c96630aa2e9c2d22b2a75dd288fc4e901">64628e2</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c19fc411cbf852f1ad51d0d5ad03bab76fc6d68c">c19fc41</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/3f114a9940c0112cf643ea020ef3439790392f33">3f114a9</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/f2b7accf08416ac19a85ffaa2c6f1ee8064f1285">f2b7acc</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b7a94e83086d575d3703ba8a8fc863e91fc5a67e">b7a94e8</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/866d7aaf02944db02782ab214e9c6bbd4a4cf307">866d7aa</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

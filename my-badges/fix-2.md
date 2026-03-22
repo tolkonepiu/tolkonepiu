@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/409d3b81a5df6b9fb85e6e4068b6ce3f8fee42f8">409d3b8</a>: fix(umami): schedule umami pods only on worker nodes
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/e5b694bd1013a1a299e5472dc04f732fee1a1048">e5b694b</a>: fix(database): schedule tolstoy postgres pods on worker nodes
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a38d707d81ae212c350680b481beef9101aaf9d5">a38d707</a>: fix(goclaw): shared skills volume
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/04104a9390deaa8e7cba6f9b35f9d27db0d62460">04104a9</a>: fix(goclaw): use node image with git for skills init container
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
