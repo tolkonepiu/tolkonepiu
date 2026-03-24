@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 509 times)\n2. update (used 249 times)\n3. fix (used 183 times)\n4. github (used 136 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 509 times)\n2. update (used 251 times)\n3. fix (used 183 times)\n4. github (used 136 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nextlevelbuilder/goclaw/issues/337\">#337</a>: Clarify GitOps / single-tenant operator workflow without per-user dashboard setup\n- <a href=\"https://github.com/siderolabs/sbc-rockchip/issues/65\">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash\n- <a href=\"https://github.com/tw93/Mole/issues/448\">#448</a>: [FEATURE] add Mole to nixpkgs\n- <a href=\"https://github.com/NixOS/nixpkgs/issues/501200\">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nextlevelbuilder/goclaw/issues/337\">#337</a>: Clarify GitOps / single-tenant operator workflow without per-user dashboard setup\n- <a href=\"https://github.com/nullclaw/nullclaw/issues/697\">#697</a>: Documentation is unclear about `${VAR}` interpolation in config values\n- <a href=\"https://github.com/siderolabs/sbc-rockchip/issues/65\">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash\n- <a href=\"https://github.com/tw93/Mole/issues/448\">#448</a>: [FEATURE] add Mole to nixpkgs\n- <a href=\"https://github.com/NixOS/nixpkgs/issues/501200\">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -220,7 +220,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★49</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★26</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★50</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★26</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/64628e2c96630aa2e9c2d22b2a75dd288fc4e901\">64628e2</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c19fc411cbf852f1ad51d0d5ad03bab76fc6d68c\">c19fc41</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/3f114a9940c0112cf643ea020ef3439790392f33\">3f114a9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/f2b7accf08416ac19a85ffaa2c6f1ee8064f1285\">f2b7acc</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b7a94e83086d575d3703ba8a8fc863e91fc5a67e\">b7a94e8</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/866d7aaf02944db02782ab214e9c6bbd4a4cf307\">866d7aa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/527e13a877d4381156f2179f6a33c84238697168\">527e13a</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/64628e2c96630aa2e9c2d22b2a75dd288fc4e901\">64628e2</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c19fc411cbf852f1ad51d0d5ad03bab76fc6d68c\">c19fc41</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/3f114a9940c0112cf643ea020ef3439790392f33\">3f114a9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/f2b7accf08416ac19a85ffaa2c6f1ee8064f1285\">f2b7acc</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b7a94e83086d575d3703ba8a8fc863e91fc5a67e\">b7a94e8</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {

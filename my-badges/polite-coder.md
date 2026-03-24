@@ -5,6 +5,7 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/nextlevelbuilder/goclaw/issues/337">#337</a>: Clarify GitOps / single-tenant operator workflow without per-user dashboard setup
+- <a href="https://github.com/nullclaw/nullclaw/issues/697">#697</a>: Documentation is unclear about `${VAR}` interpolation in config values
 - <a href="https://github.com/siderolabs/sbc-rockchip/issues/65">#65</a>: Talos Fails to Boot on Rock Pi 4B with U-Boot in SPI Flash
 - <a href="https://github.com/tw93/Mole/issues/448">#448</a>: [FEATURE] add Mole to nixpkgs
 - <a href="https://github.com/NixOS/nixpkgs/issues/501200">#501200</a>: ghostty-bin: fails to launch on aarch64-darwin with code signature invalid since 1.3.0
