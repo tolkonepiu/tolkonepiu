@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/tolkonepiu/best-of-mcp-servers">tolkonepiu/best-of-mcp-servers: ★53</a>
-* <a href="https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes">tolkonepiu/catppuccin-powerlevel10k-themes: ★27</a>
+* <a href="https://github.com/tolkonepiu/best-of-mcp-servers">tolkonepiu/best-of-mcp-servers: ★54</a>
+* <a href="https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes">tolkonepiu/catppuccin-powerlevel10k-themes: ★28</a>
 * <a href="https://github.com/tolkonepiu/wg-easy-extended">tolkonepiu/wg-easy-extended: ★9</a>
 * <a href="https://github.com/tolkonepiu/keencli">tolkonepiu/keencli: ★7</a>
 * <a href="https://github.com/tolkonepiu/prometheus-docker">tolkonepiu/prometheus-docker: ★3</a>
