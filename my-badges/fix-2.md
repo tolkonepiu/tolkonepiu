@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a38d707d81ae212c350680b481beef9101aaf9d5">a38d707</a>: fix(goclaw): shared skills volume
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/04104a9390deaa8e7cba6f9b35f9d27db0d62460">04104a9</a>: fix(goclaw): use node image with git for skills init container
+- <a href="https://github.com/tolkonepiu/ironclaw-kit/commit/d6583730c9762cc39ac64f9a3073b6e7a01dd309">d658373</a>: fix(ci): temporary disable buld job
+- <a href="https://github.com/tolkonepiu/ironclaw-kit/commit/0b0e5e70aff707176e7c32a9e64056c6ccfdeb7f">0b0e5e7</a>: fix(actions): use flat merge matrix keys in job name
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

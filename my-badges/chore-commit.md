@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/best-of-mcp-servers/commit/36cdeb9e1a43f9e55cc48e5085a994d7376e4cf1">36cdeb9</a>: chore: add missing 'official' labels and standardize label ordering
+- <a href="https://github.com/tolkonepiu/ironclaw-kit/commit/fea0aaa799ed93a3cddf16efad373059753ffc51">fea0aaa</a>: chore(ci): enable build step
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

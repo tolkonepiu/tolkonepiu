@@ -24,7 +24,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/36cdeb9e1a43f9e55cc48e5085a994d7376e4cf1\">36cdeb9</a>: chore: add missing 'official' labels and standardize label ordering",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/fea0aaa799ed93a3cddf16efad373059753ffc51\">fea0aaa</a>: chore(ci): enable build step",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -52,21 +52,21 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 511 times)\n2. update (used 252 times)\n3. fix (used 183 times)\n4. github (used 136 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 516 times)\n2. update (used 254 times)\n3. fix (used 186 times)\n4. github (used 137 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a38d707d81ae212c350680b481beef9101aaf9d5\">a38d707</a>: fix(goclaw): shared skills volume\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/04104a9390deaa8e7cba6f9b35f9d27db0d62460\">04104a9</a>: fix(goclaw): use node image with git for skills init container",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/d6583730c9762cc39ac64f9a3073b6e7a01dd309\">d658373</a>: fix(ci): temporary disable buld job\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/0b0e5e70aff707176e7c32a9e64056c6ccfdeb7f\">0b0e5e7</a>: fix(actions): use flat merge matrix keys in job name",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b\">7004887</a>: fix(goclaw): rename Pushover env names\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2e7deb1d6313dffb35442233765ad8e517adb6fd\">2e7deb1</a>: fix(goclaw): separate workspace, skills, and config mounts\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/536a11b3547e21fbf6713f261c17496f036ba75a\">536a11b</a>: fix(goclaw): move skills to bundled-skills",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/ef765c18c4fd07bd636af7a1f0e7e24b5ab3bf65\">ef765c1</a>: fix(ironclaw): non-TLS postgres\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9605aa32a56bdb9eeba740a77b3b63e77f8e9143\">9605aa3</a>: fix(ironclaw): bypass first-run onboarding\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/61e4fc468e1cacc1a238907611c800b68124d5f7\">61e4fc4</a>: fix(ironclaw): switch to openrouter",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/91603d5e571bb5f1ef77b78de5f85032c351f365\">91603d5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6f79523728b8ac04105db14bc9015d3dfdb2a904\">6f79523</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b\">7004887</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2e7deb1d6313dffb35442233765ad8e517adb6fd\">2e7deb1</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/536a11b3547e21fbf6713f261c17496f036ba75a\">536a11b</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-nix/commit/527e13a877d4381156f2179f6a33c84238697168\">527e13a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/c732db422d14cfe7420b30cf2f8af729df32ba9a\">c732db4</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/91603d5e571bb5f1ef77b78de5f85032c351f365\">91603d5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6f79523728b8ac04105db14bc9015d3dfdb2a904\">6f79523</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b\">7004887</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2e7deb1d6313dffb35442233765ad8e517adb6fd\">2e7deb1</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/536a11b3547e21fbf6713f261c17496f036ba75a\">536a11b</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6ccb855dc8760f117950c943f119a87eac71facb\">6ccb855</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/1932fffe915df11ed7bc84856bfc48fdeda16bc5\">1932fff</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/cfbce69dde39d3890b7dcbb1d93f2393ee80a570\">cfbce69</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/96ec37bd095be1b973a52ae3f613c65e096fd2e9\">96ec37b</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/53a53fe17c763b8da2e7e7c7fbc1afefc8ccf593\">53a53fe</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fbdd10b8fd390abf119aa9ddb57141655d9b7258\">fbdd10b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/5cd378591f6ab0bd0fedce6ce5c61de0d020a74c\">5cd3785</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/1235269b10caac2806dd913ffc6b5957440159ad\">1235269</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/030c5862056601eec3e620073666e3c3194e7a30\">030c586</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/b63aae7526fc80124ef78bbd3677879c8c0f5073\">b63aae7</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/f62ead5d48b507398a5edd122e0f1527aba2d6b2\">f62ead5</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/cd96dcb74a45988d30cf17505649b2682f0a00df\">cd96dcb</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b">7004887</a>: fix(goclaw): rename Pushover env names
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/2e7deb1d6313dffb35442233765ad8e517adb6fd">2e7deb1</a>: fix(goclaw): separate workspace, skills, and config mounts
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/536a11b3547e21fbf6713f261c17496f036ba75a">536a11b</a>: fix(goclaw): move skills to bundled-skills
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/ef765c18c4fd07bd636af7a1f0e7e24b5ab3bf65">ef765c1</a>: fix(ironclaw): non-TLS postgres
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9605aa32a56bdb9eeba740a77b3b63e77f8e9143">9605aa3</a>: fix(ironclaw): bypass first-run onboarding
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/61e4fc468e1cacc1a238907611c800b68124d5f7">61e4fc4</a>: fix(ironclaw): switch to openrouter
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
