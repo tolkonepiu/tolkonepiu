@@ -24,7 +24,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/fea0aaa799ed93a3cddf16efad373059753ffc51\">fea0aaa</a>: chore(ci): enable build step",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/fea0aaa799ed93a3cddf16efad373059753ffc51\">fea0aaa</a>: chore(ci): enable build step",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -52,14 +52,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 516 times)\n2. update (used 254 times)\n3. fix (used 186 times)\n4. github (used 137 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 521 times)\n2. update (used 254 times)\n3. fix (used 187 times)\n4. github (used 137 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/d6583730c9762cc39ac64f9a3073b6e7a01dd309\">d658373</a>: fix(ci): temporary disable buld job\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/0b0e5e70aff707176e7c32a9e64056c6ccfdeb7f\">0b0e5e7</a>: fix(actions): use flat merge matrix keys in job name",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/d6583730c9762cc39ac64f9a3073b6e7a01dd309\">d658373</a>: fix(ci): temporary disable buld job\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/0b0e5e70aff707176e7c32a9e64056c6ccfdeb7f\">0b0e5e7</a>: fix(actions): use flat merge matrix keys in job name",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -220,7 +220,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★54</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★28</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★56</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★28</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/c732db422d14cfe7420b30cf2f8af729df32ba9a\">c732db4</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/91603d5e571bb5f1ef77b78de5f85032c351f365\">91603d5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6f79523728b8ac04105db14bc9015d3dfdb2a904\">6f79523</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b\">7004887</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2e7deb1d6313dffb35442233765ad8e517adb6fd\">2e7deb1</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/536a11b3547e21fbf6713f261c17496f036ba75a\">536a11b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/e99ec24a9914800d951fbbefb6eaa5192fd50bb0\">e99ec24</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5e6de8eb22c78f27a603a28cb9004fca067e4f84\">5e6de8e</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/c732db422d14cfe7420b30cf2f8af729df32ba9a\">c732db4</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/91603d5e571bb5f1ef77b78de5f85032c351f365\">91603d5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6f79523728b8ac04105db14bc9015d3dfdb2a904\">6f79523</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b\">7004887</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/5cd378591f6ab0bd0fedce6ce5c61de0d020a74c\">5cd3785</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/1235269b10caac2806dd913ffc6b5957440159ad\">1235269</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/030c5862056601eec3e620073666e3c3194e7a30\">030c586</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/b63aae7526fc80124ef78bbd3677879c8c0f5073\">b63aae7</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/f62ead5d48b507398a5edd122e0f1527aba2d6b2\">f62ead5</a>\n- <a href=\"https://github.com/tolkonepiu/ironclaw-kit/commit/cd96dcb74a45988d30cf17505649b2682f0a00df\">cd96dcb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/cc5761858d163092357d102ef0d8039ae6384b5c\">cc57618</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/761c2e2b2d6e8137f0ca98fac48471a9d0ea0506\">761c2e2</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/d4165dc84ad99f16c9656f3b39d147b141844b0c\">d4165dc</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/76f8be05ee0e502a0985e568c33de96003fd14a6\">76f8be0</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/c6e1ad892dcf009dc57efbfd470cddb0634eba8f\">c6e1ad8</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5cd378591f6ab0bd0fedce6ce5c61de0d020a74c\">5cd3785</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -264,5 +264,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/33e0b649e5d30abffbfaff75a5528772651f41e6\">33e0b64</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/97dd76993cd299af2861d6e099dfd6e173422aca\">97dd769</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/14ab9953b0e5119b9b15c6d511adb2bf5370c37f\">14ab995</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/d8537a81807a1387b0c1805fcf1d1e5f217a582b\">d8537a8</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/de343f87a5bd595d466337c7c74fcd24880141f9\">de343f8</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/aa837ed146ff2340005ba64d679cdc86de2d32ef\">aa837ed</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/12\">#12</a>: feat: add nanobot image and selective JSON-based builds\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/15\">#15</a>: feat: add copaw\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/16\">#16</a>: feat: add openclaw sandbox images",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
