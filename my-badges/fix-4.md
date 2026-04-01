@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/fc853a581bac034db2706d269deee3a24fc9f35b">fc853a5</a>: fix(goclaw): run both extension inits in a single shell command
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/39b6a130e88b0790e32df4b03a54d309e56b9707">39b6a13</a>: fix(goclaw): revert extension initialization
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/1bb1187ef5ac32e5fd9bd71e7c7e8d5e00b965aa">1bb1187</a>: fix(goclaw): run database migrations before app startup
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/6ccb855dc8760f117950c943f119a87eac71facb">6ccb855</a>: fix(goclaw): initialize required postgres extensions before startup
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/2bee274ad22495c2b9a4a4e78cbb3cab899713c6">2bee274</a>: fix(openclaw): temporary disable memory
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a19c503ee3c3838f1dc289521857aaf47372eb34">a19c503</a>: fix(openclaw): deploy openclaw-secret
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/8017fced78ee8e5d639b4cebfc32a8f1ad6c5c8b">8017fce</a>: fix(openclaw): spec fixes
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/91f470048e67824b7df97e00f1c8ca66b0e41e7b">91f4700</a>: fix(openclaw): fix path
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

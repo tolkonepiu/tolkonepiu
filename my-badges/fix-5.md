@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9239aa42530a4bf825015ef31c57089f8b4ec221">9239aa4</a>: fix(1mcp-agent): enable async loading
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a0bd6b146072052e5c307e6dfdb1763c712bf2d2">a0bd6b1</a>: fix(1mcp-agent): set https external url
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/48a9d28794ca81539c5f1f6a2598813bbe545a76">48a9d28</a>: fix(automation): switch one-mcp-agent transport to http
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/925f3f32fa215df395da873d9501b463391d30e4">925f3f3</a>: fix(automation): add writable runtime config for one-mcp-agent
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/08b955bfb33b73060ca75e4ec73abd426e5f605b">08b955b</a>: fix(automation): rename 1mcp-agent resources to one-mcp-agent
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c3bc5f1237f50c046c639306c8d47eeaeded0b87">c3bc5f1</a>: fix(openclaw): fix port type for cilium
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a8970b7d7328043ecdc98f7d61e046514d77eb48">a8970b7</a>: fix(openclaw): fix port value
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c4b726f207339cdafde75ae4b85eb52e1ed1dfee">c4b726f</a>: fix(openclaw): allow kestrel ingress from cilium gateway entities
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/e3b74c19a8fd0d018fe04afa9a5163acc0f955ec">e3b74c1</a>: fix(openclaw): use OpenClawInstance health check for kestrel
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/5e8bd148ce116fbc589d16f593bed05a1bd4b1db">5e8bd14</a>: fix(openclaw): allow internal gateway traffic to kestrel
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

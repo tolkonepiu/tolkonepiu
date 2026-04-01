@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 526 times)\n2. update (used 255 times)\n3. fix (used 187 times)\n4. github (used 137 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 529 times)\n2. update (used 256 times)\n3. fix (used 193 times)\n4. github (used 138 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,14 +73,14 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fc853a581bac034db2706d269deee3a24fc9f35b\">fc853a5</a>: fix(goclaw): run both extension inits in a single shell command\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/39b6a130e88b0790e32df4b03a54d309e56b9707\">39b6a13</a>: fix(goclaw): revert extension initialization\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/1bb1187ef5ac32e5fd9bd71e7c7e8d5e00b965aa\">1bb1187</a>: fix(goclaw): run database migrations before app startup\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6ccb855dc8760f117950c943f119a87eac71facb\">6ccb855</a>: fix(goclaw): initialize required postgres extensions before startup",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2bee274ad22495c2b9a4a4e78cbb3cab899713c6\">2bee274</a>: fix(openclaw): temporary disable memory\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a19c503ee3c3838f1dc289521857aaf47372eb34\">a19c503</a>: fix(openclaw): deploy openclaw-secret\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8017fced78ee8e5d639b4cebfc32a8f1ad6c5c8b\">8017fce</a>: fix(openclaw): spec fixes\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/91f470048e67824b7df97e00f1c8ca66b0e41e7b\">91f4700</a>: fix(openclaw): fix path",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9239aa42530a4bf825015ef31c57089f8b4ec221\">9239aa4</a>: fix(1mcp-agent): enable async loading\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a0bd6b146072052e5c307e6dfdb1763c712bf2d2\">a0bd6b1</a>: fix(1mcp-agent): set https external url\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/48a9d28794ca81539c5f1f6a2598813bbe545a76\">48a9d28</a>: fix(automation): switch one-mcp-agent transport to http\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/925f3f32fa215df395da873d9501b463391d30e4\">925f3f3</a>: fix(automation): add writable runtime config for one-mcp-agent\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/08b955bfb33b73060ca75e4ec73abd426e5f605b\">08b955b</a>: fix(automation): rename 1mcp-agent resources to one-mcp-agent",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c3bc5f1237f50c046c639306c8d47eeaeded0b87\">c3bc5f1</a>: fix(openclaw): fix port type for cilium\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a8970b7d7328043ecdc98f7d61e046514d77eb48\">a8970b7</a>: fix(openclaw): fix port value\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c4b726f207339cdafde75ae4b85eb52e1ed1dfee\">c4b726f</a>: fix(openclaw): allow kestrel ingress from cilium gateway entities\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/e3b74c19a8fd0d018fe04afa9a5163acc0f955ec\">e3b74c1</a>: fix(openclaw): use OpenClawInstance health check for kestrel\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/5e8bd148ce116fbc589d16f593bed05a1bd4b1db\">5e8bd14</a>: fix(openclaw): allow internal gateway traffic to kestrel",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
@@ -220,7 +220,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★56</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★28</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers\">tolkonepiu/best-of-mcp-servers: ★56</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★29</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/e99ec24a9914800d951fbbefb6eaa5192fd50bb0\">e99ec24</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5e6de8eb22c78f27a603a28cb9004fca067e4f84\">5e6de8e</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/c732db422d14cfe7420b30cf2f8af729df32ba9a\">c732db4</a>\n- <a href=\"https://github.com/tolkonepiu/best-of-mcp-servers/commit/91603d5e571bb5f1ef77b78de5f85032c351f365\">91603d5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/6f79523728b8ac04105db14bc9015d3dfdb2a904\">6f79523</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/70048873f339ecc439951a0b2d1e0d1657ce9e8b\">7004887</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a0a5c46320318928dccb45be599432ed4d788111\">a0a5c46</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/43d1da01c52b6a99a93dd68ff7860bcc5d7ab8e9\">43d1da0</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9313da94cfaec2f4fe798950a8833bc742b2b492\">9313da9</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/e99ec24a9914800d951fbbefb6eaa5192fd50bb0\">e99ec24</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5e6de8eb22c78f27a603a28cb9004fca067e4f84\">5e6de8e</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/c732db422d14cfe7420b30cf2f8af729df32ba9a\">c732db4</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/cc5761858d163092357d102ef0d8039ae6384b5c\">cc57618</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/761c2e2b2d6e8137f0ca98fac48471a9d0ea0506\">761c2e2</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/d4165dc84ad99f16c9656f3b39d147b141844b0c\">d4165dc</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/76f8be05ee0e502a0985e568c33de96003fd14a6\">76f8be0</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/c6e1ad892dcf009dc57efbfd470cddb0634eba8f\">c6e1ad8</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5cd378591f6ab0bd0fedce6ce5c61de0d020a74c\">5cd3785</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/169dad6f2ce96a4c7943ea55931d053ecc015f90\">169dad6</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2bee274ad22495c2b9a4a4e78cbb3cab899713c6\">2bee274</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a19c503ee3c3838f1dc289521857aaf47372eb34\">a19c503</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/8017fced78ee8e5d639b4cebfc32a8f1ad6c5c8b\">8017fce</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/91f470048e67824b7df97e00f1c8ca66b0e41e7b\">91f4700</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/66c8a7be5e9b0ea89fcd1b7f53ab5afa35b9eb76\">66c8a7b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
