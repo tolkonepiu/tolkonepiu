@@ -2,6 +2,7 @@
 <strong>I found the answer to the ultimate question of life, the universe, and everything!</strong>
 <br><br>
 
+- <a href="https://github.com/pedropombeiro/opencode-plugins/issues/42">#42</a>
 - <a href="https://github.com/rbkmoney/reporter/issues/42">#42</a>
 - <a href="https://github.com/rbkmoney/helmsdeep/issues/42">#42</a>
 - <a href="https://github.com/tolkonepiu/dotfiles.nix/issues/42">#42</a>
