@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/claw-images/commit/fea0aaa799ed93a3cddf16efad373059753ffc51">fea0aaa</a>: chore(ci): enable build step
+- <a href="https://github.com/tolkonepiu/claw-images/commit/399837a2e394d13a7419fcea69d6f17b02e2c5fe">399837a</a>: chore: clean
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

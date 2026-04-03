@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/ef765c18c4fd07bd636af7a1f0e7e24b5ab3bf65">ef765c1</a>: fix(ironclaw): non-TLS postgres
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9605aa32a56bdb9eeba740a77b3b63e77f8e9143">9605aa3</a>: fix(ironclaw): bypass first-run onboarding
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/61e4fc468e1cacc1a238907611c800b68124d5f7">61e4fc4</a>: fix(ironclaw): switch to openrouter
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b8e0125c625f96e23448495c06254d49f404ab9b">b8e0125</a>: fix(observability): increase vmsingle memory reservation
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/801ec782b7b7976c6655a40b0be822b9e0154d47">801ec78</a>: fix(observability): set vmsingle storageClass on supported storage spec
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b8e5f2546520a702574191994595b5daa46483fc">b8e5f25</a>: fix(observability): remove invalid vmsingle storageDataPath
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

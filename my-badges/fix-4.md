@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/2bee274ad22495c2b9a4a4e78cbb3cab899713c6">2bee274</a>: fix(openclaw): temporary disable memory
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a19c503ee3c3838f1dc289521857aaf47372eb34">a19c503</a>: fix(openclaw): deploy openclaw-secret
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/8017fced78ee8e5d639b4cebfc32a8f1ad6c5c8b">8017fce</a>: fix(openclaw): spec fixes
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/91f470048e67824b7df97e00f1c8ca66b0e41e7b">91f4700</a>: fix(openclaw): fix path
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c841b2802db1725f4d8c546cb3de6ecfa4c73062">c841b28</a>: fix(victoria-metrics): pin to olympus-phobos node
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c239790edb3d02536b2bd95144ec56eb44f3cca4">c239790</a>: fix(openclaw): allow kestrel to reach flux-mcp and relax health probes
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/7d260bda663ec69fefd593c88a7efd2772ad9512">7d260bd</a>: fix(openclaw): exec gateway host
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/18000bb55b5ae7d561f9505469e6e0fa07fa9319">18000bb</a>: fix(openclaw): YOLO mode
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

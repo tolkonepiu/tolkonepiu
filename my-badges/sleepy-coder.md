@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c87ecb0c209fe2dbe2d81d5ed4bf7418ba8f5ae7">c87ecb0</a>
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a0a5c46320318928dccb45be599432ed4d788111">a0a5c46</a>
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/43d1da01c52b6a99a93dd68ff7860bcc5d7ab8e9">43d1da0</a>
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9313da94cfaec2f4fe798950a8833bc742b2b492">9313da9</a>
-- <a href="https://github.com/tolkonepiu/claw-images/commit/e99ec24a9914800d951fbbefb6eaa5192fd50bb0">e99ec24</a>
-- <a href="https://github.com/tolkonepiu/claw-images/commit/5e6de8eb22c78f27a603a28cb9004fca067e4f84">5e6de8e</a>
+- <a href="https://github.com/tolkonepiu/claw-images/commit/2e4732d73097936828c414431e291c67b280a55b">2e4732d</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/60d1292f84edc3c5933ebe480c4b30d8009a809d">60d1292</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/754669d441d35e557ce4fd3bd6071734217d921f">754669d</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b8e0125c625f96e23448495c06254d49f404ab9b">b8e0125</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/801ec782b7b7976c6655a40b0be822b9e0154d47">801ec78</a>
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b8e5f2546520a702574191994595b5daa46483fc">b8e5f25</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

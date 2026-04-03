@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c3bc5f1237f50c046c639306c8d47eeaeded0b87">c3bc5f1</a>: fix(openclaw): fix port type for cilium
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a8970b7d7328043ecdc98f7d61e046514d77eb48">a8970b7</a>: fix(openclaw): fix port value
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/c4b726f207339cdafde75ae4b85eb52e1ed1dfee">c4b726f</a>: fix(openclaw): allow kestrel ingress from cilium gateway entities
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/e3b74c19a8fd0d018fe04afa9a5163acc0f955ec">e3b74c1</a>: fix(openclaw): use OpenClawInstance health check for kestrel
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/5e8bd148ce116fbc589d16f593bed05a1bd4b1db">5e8bd14</a>: fix(openclaw): allow internal gateway traffic to kestrel
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/7b0f8037d3a3efef81791b52316219dc2262ae88">7b0f803</a>: fix(openclaw): enable memory slot
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/653ce7a84d000a26c19fc93c3b71d05e7eb90440">653ce7a</a>: fix(openclaw): increase memory and cpu limits
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b2e489a8b950d3e9ac434466da69a610ac58979e">b2e489a</a>: fix(openclaw): increase heap size
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9c1544f36f7be1982af8cbc83b71f900edda85c8">9c1544f</a>: fix(openclaw): change openclaw instance
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/60d1292f84edc3c5933ebe480c4b30d8009a809d">60d1292</a>: fix(openclaw): disable memory slot
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
