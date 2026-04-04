@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/claw-images/commit/399837a2e394d13a7419fcea69d6f17b02e2c5fe">399837a</a>: chore: clean
+- <a href="https://github.com/tolkonepiu/claw-images/commit/1fb36a155b839ecdf8357ebb173cf0d425643070">1fb36a1</a>: chore(renovate): enable dashboard
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
