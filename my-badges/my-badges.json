@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 539 times)\n2. update (used 262 times)\n3. fix (used 199 times)\n4. github (used 139 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 544 times)\n2. update (used 264 times)\n3. fix (used 205 times)\n4. github (used 139 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/7b0f8037d3a3efef81791b52316219dc2262ae88\">7b0f803</a>: fix(openclaw): enable memory slot\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/653ce7a84d000a26c19fc93c3b71d05e7eb90440\">653ce7a</a>: fix(openclaw): increase memory and cpu limits\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b2e489a8b950d3e9ac434466da69a610ac58979e\">b2e489a</a>: fix(openclaw): increase heap size\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9c1544f36f7be1982af8cbc83b71f900edda85c8\">9c1544f</a>: fix(openclaw): change openclaw instance\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/60d1292f84edc3c5933ebe480c4b30d8009a809d\">60d1292</a>: fix(openclaw): disable memory slot",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a523a7fbafc63ebed2e44573d83a06931d6f7f73\">a523a7f</a>: fix(openclaw): skip canvas host and fix victoria-metrics MCP endpoint\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a91aa1a690e8c6deb87a29624006d9962f4b608f\">a91aa1a</a>: fix(openclaw): disable channels and Gmail watcher\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/86e0eb0cffc2b0fb00eec14bdbe4b58b0e279c33\">86e0eb0</a>: fix(openclaw): add diagnostics OTEL endpoint and metrics\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/56dbae87fcb58a29841e6cf4d587ca6896f846ab\">56dbae8</a>: fix(openclaw-operator): add RBAC for secure metrics scraping\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/d595ab5b051465c91b7b1a951bb1ba26b20b7712\">d595ab5</a>: fix(openclaw): enable openclaw diagnostics metrics and disable secure operator scrape",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
@@ -220,7 +220,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-nix\">tolkonepiu/best-of-nix: ★56</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★29</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/tolkonepiu/best-of-nix\">tolkonepiu/best-of-nix: ★56</a>\n* <a href=\"https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes\">tolkonepiu/catppuccin-powerlevel10k-themes: ★29</a>\n* <a href=\"https://github.com/tolkonepiu/wg-easy-extended\">tolkonepiu/wg-easy-extended: ★9</a>\n* <a href=\"https://github.com/tolkonepiu/keencli\">tolkonepiu/keencli: ★7</a>\n* <a href=\"https://github.com/tolkonepiu/prometheus-docker\">tolkonepiu/prometheus-docker: ★3</a>\n* <a href=\"https://github.com/PospolitaNV/rbkch-bot\">PospolitaNV/rbkch-bot: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/tailscale-docker\">tolkonepiu/tailscale-docker: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/ru-ipranges\">tolkonepiu/ru-ipranges: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin\">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>\n* <a href=\"https://github.com/tolkonepiu/dotfiles.nix\">tolkonepiu/dotfiles.nix: ★1</a>\n* <a href=\"https://github.com/tolkonepiu/hl-cluster\">tolkonepiu/hl-cluster: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b92a052b234ce0228f6fb8473ef6998476d5c4a9\">b92a052</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/16b69b255462c2e3f913b43dec775e5a273ae276\">16b69b2</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/b965fbfc1effb1109f64c70e28cab06bfe71aa2f\">b965fbf</a>\n- <a href=\"https://github.com/tolkonepiu/dotfiles.nix/commit/edc767f2af32f7b6637d5a48a0b7717382ca35ee\">edc767f</a>\n- <a href=\"https://github.com/tolkonepiu/ipranges/commit/bc63ca7ce45a03c7fd6067798c993938f84d2acb\">bc63ca7</a>\n- <a href=\"https://github.com/tolkonepiu/ru-ipranges/commit/fc6dd19eba2d589da92cd4964e036ab74120d869\">fc6dd19</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/bfb71195f4ad7c9b994208b58d2739fb7f285471\">bfb7119</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/bfc5ea9881dc8e8c952cc87d9a33c7a377390d29\">bfc5ea9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/164e2e9884aa1b56b0748b0e1a9d331dfea46af1\">164e2e9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/14c7a8602020ea6346cf20487636ba898f936c26\">14c7a86</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b92a052b234ce0228f6fb8473ef6998476d5c4a9\">b92a052</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/16b69b255462c2e3f913b43dec775e5a273ae276\">16b69b2</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/4988a8bc2f88114edd97f6d92db2228e4653c5da\">4988a8b</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/23cbdf43f5f8ad101b33b2e52aa35e5814ab2e6b\">23cbdf4</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/58c8e4ece83a82b20fa23f18c294742606339911\">58c8e4e</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/3553d4427709fef5f4627bf8a60b5d837d1c61f0\">3553d44</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/7b0f8037d3a3efef81791b52316219dc2262ae88\">7b0f803</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/653ce7a84d000a26c19fc93c3b71d05e7eb90440\">653ce7a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/d595ab5b051465c91b7b1a951bb1ba26b20b7712\">d595ab5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fc03c978a9be8a88a0dbdbf2c4c97073c9309908\">fc03c97</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c0d44c3d35a5e08cc2b847b398dd28f7656523ea\">c0d44c3</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c2eca89166d48d4a768f690217f256255e88c22a\">c2eca89</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/74ece28c74999be183847e327de5844094d74ad8\">74ece28</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/a240aafd10a1521c7b2bf24a4ce4c453b4030878\">a240aaf</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -278,5 +278,12 @@
     "desc": "I did 6 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/9dcb3e2d4bd04968a384c471ca879c47d90b21bd\">9dcb3e2</a>: fix(openclaw): add hindsight to memory slot\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/5414e9801e354e8aea456ec9eeb8b9aa6d36a524\">5414e98</a>: fix(openclaw): fix plugin path\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/aa1cb194f4a4e707fd5d8c18c0ca4d6c8c99056e\">aa1cb19</a>: fix(openclaw): disable plugin path\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/010872e95b0879781465bdba7067a970d027bda7\">010872e</a>: fix(openclaw): fix indentation\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/3bf837c83439c1534019dffefaf0853b46a5080e\">3bf837c</a>: fix(openclaw): add path for `hindsight` extension\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/2389a903a1685b0a3c4b31feff3d6a25174954e3\">2389a90</a>: fix(openclaw): remove `askFallback` from config",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/74ece28c74999be183847e327de5844094d74ad8\">74ece28</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]

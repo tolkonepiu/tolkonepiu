@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/7b0f8037d3a3efef81791b52316219dc2262ae88">7b0f803</a>: fix(openclaw): enable memory slot
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/653ce7a84d000a26c19fc93c3b71d05e7eb90440">653ce7a</a>: fix(openclaw): increase memory and cpu limits
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/b2e489a8b950d3e9ac434466da69a610ac58979e">b2e489a</a>: fix(openclaw): increase heap size
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/9c1544f36f7be1982af8cbc83b71f900edda85c8">9c1544f</a>: fix(openclaw): change openclaw instance
-- <a href="https://github.com/tolkonepiu/hl-cluster/commit/60d1292f84edc3c5933ebe480c4b30d8009a809d">60d1292</a>: fix(openclaw): disable memory slot
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a523a7fbafc63ebed2e44573d83a06931d6f7f73">a523a7f</a>: fix(openclaw): skip canvas host and fix victoria-metrics MCP endpoint
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/a91aa1a690e8c6deb87a29624006d9962f4b608f">a91aa1a</a>: fix(openclaw): disable channels and Gmail watcher
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/86e0eb0cffc2b0fb00eec14bdbe4b58b0e279c33">86e0eb0</a>: fix(openclaw): add diagnostics OTEL endpoint and metrics
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/56dbae87fcb58a29841e6cf4d587ca6896f846ab">56dbae8</a>: fix(openclaw-operator): add RBAC for secure metrics scraping
+- <a href="https://github.com/tolkonepiu/hl-cluster/commit/d595ab5b051465c91b7b1a951bb1ba26b20b7712">d595ab5</a>: fix(openclaw): enable openclaw diagnostics metrics and disable secure operator scrape
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

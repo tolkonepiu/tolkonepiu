@@ -81,4 +81,5 @@
 <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/fix-6.md"><img src="https://my-badges.github.io/my-badges/fix-6.png" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="64"></a>
+<a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <!-- my-badges end -->
