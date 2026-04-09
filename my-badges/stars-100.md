@@ -14,7 +14,6 @@ Repos:
 * <a href="https://github.com/tolkonepiu/ru-ipranges">tolkonepiu/ru-ipranges: ★2</a>
 * <a href="https://github.com/tolkonepiu/vscode-shell-integration-zsh-plugin">tolkonepiu/vscode-shell-integration-zsh-plugin: ★2</a>
 * <a href="https://github.com/tolkonepiu/dotfiles.nix">tolkonepiu/dotfiles.nix: ★1</a>
-* <a href="https://github.com/tolkonepiu/hl-cluster">tolkonepiu/hl-cluster: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
