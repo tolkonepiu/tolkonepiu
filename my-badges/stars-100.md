@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/tolkonepiu/best-of-nix">tolkonepiu/best-of-nix: ★56</a>
-* <a href="https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes">tolkonepiu/catppuccin-powerlevel10k-themes: ★29</a>
+* <a href="https://github.com/tolkonepiu/catppuccin-powerlevel10k-themes">tolkonepiu/catppuccin-powerlevel10k-themes: ★30</a>
 * <a href="https://github.com/tolkonepiu/wg-easy-extended">tolkonepiu/wg-easy-extended: ★9</a>
 * <a href="https://github.com/tolkonepiu/keencli">tolkonepiu/keencli: ★7</a>
 * <a href="https://github.com/tolkonepiu/prometheus-docker">tolkonepiu/prometheus-docker: ★3</a>
