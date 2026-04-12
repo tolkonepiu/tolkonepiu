@@ -24,7 +24,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/16b69b255462c2e3f913b43dec775e5a273ae276\">16b69b2</a>: chore(renovate): disable dashboard",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/08fd9c9a7bd88a4d70c893446554f587be828a1e\">08fd9c9</a>: chore(overlays): add `ripgrep` and `tree` to openclaw full images",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 545 times)\n2. update (used 265 times)\n3. fix (used 205 times)\n4. github (used 139 times)\n5. actions (used 124 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 551 times)\n2. update (used 267 times)\n3. fix (used 208 times)\n4. github (used 139 times)\n5. actions (used 124 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/bfb71195f4ad7c9b994208b58d2739fb7f285471\">bfb7119</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/bfc5ea9881dc8e8c952cc87d9a33c7a377390d29\">bfc5ea9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/164e2e9884aa1b56b0748b0e1a9d331dfea46af1\">164e2e9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/14c7a8602020ea6346cf20487636ba898f936c26\">14c7a86</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b92a052b234ce0228f6fb8473ef6998476d5c4a9\">b92a052</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/16b69b255462c2e3f913b43dec775e5a273ae276\">16b69b2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/b68c2f4078a3c4c64ea62defbc6a4c071cbf4163\">b68c2f4</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/81466364e074c22ef88d4ba27b2384df668d0798\">8146636</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/bfb71195f4ad7c9b994208b58d2739fb7f285471\">bfb7119</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/bfc5ea9881dc8e8c952cc87d9a33c7a377390d29\">bfc5ea9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/164e2e9884aa1b56b0748b0e1a9d331dfea46af1\">164e2e9</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/14c7a8602020ea6346cf20487636ba898f936c26\">14c7a86</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/abbae70f843ababf69ab23f8c19e7a0e2136c169\">abbae70</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/41ecb2f2a7ba183b7ce7efc788b72ae85ca88300\">41ecb2f</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/d595ab5b051465c91b7b1a951bb1ba26b20b7712\">d595ab5</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/fc03c978a9be8a88a0dbdbf2c4c97073c9309908\">fc03c97</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c0d44c3d35a5e08cc2b847b398dd28f7656523ea\">c0d44c3</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/c2eca89166d48d4a768f690217f256255e88c22a\">c2eca89</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/2f5ba6a828610a88869e888340e776fa53a8eacb\">2f5ba6a</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/1441ed076b7e699baa36695cbc846c3141935cec\">1441ed0</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/880fc683a7e1de6e979bab4b2337af3594b45149\">880fc68</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5385b469e02c2018d7b5536908c2facdd598d9b3\">5385b46</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/4c5ec7151cac58aca26609377256c59b74c0f102\">4c5ec71</a>\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/abbae70f843ababf69ab23f8c19e7a0e2136c169\">abbae70</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -269,7 +269,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/12\">#12</a>: feat: add nanobot image and selective JSON-based builds\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/15\">#15</a>: feat: add copaw\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/16\">#16</a>: feat: add openclaw sandbox images\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/23\">#23</a>: feat: add docker build args support\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/26\">#26</a>: feat: add overlays",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/12\">#12</a>: feat: add nanobot image and selective JSON-based builds\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/15\">#15</a>: feat: add copaw\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/16\">#16</a>: feat: add openclaw sandbox images\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/23\">#23</a>: feat: add docker build args support\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/26\">#26</a>: feat: add overlays\n- <a href=\"https://github.com/tolkonepiu/claw-images/pull/52\">#52</a>: feat: add args support for overlay builds",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -285,5 +285,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/hl-cluster/commit/74ece28c74999be183847e327de5844094d74ad8\">74ece28</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/2f5ba6a828610a88869e888340e776fa53a8eacb\">2f5ba6a</a>\n- <a href=\"https://github.com/tolkonepiu/claw-images/commit/5385b469e02c2018d7b5536908c2facdd598d9b3\">5385b46</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]

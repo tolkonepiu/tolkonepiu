@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tolkonepiu/claw-images/commit/16b69b255462c2e3f913b43dec775e5a273ae276">16b69b2</a>: chore(renovate): disable dashboard
+- <a href="https://github.com/tolkonepiu/claw-images/commit/08fd9c9a7bd88a4d70c893446554f587be828a1e">08fd9c9</a>: chore(overlays): add `ripgrep` and `tree` to openclaw full images
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

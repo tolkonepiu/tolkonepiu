@@ -9,6 +9,7 @@ Pull requests:
 - <a href="https://github.com/tolkonepiu/claw-images/pull/16">#16</a>: feat: add openclaw sandbox images
 - <a href="https://github.com/tolkonepiu/claw-images/pull/23">#23</a>: feat: add docker build args support
 - <a href="https://github.com/tolkonepiu/claw-images/pull/26">#26</a>: feat: add overlays
+- <a href="https://github.com/tolkonepiu/claw-images/pull/52">#52</a>: feat: add args support for overlay builds
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
